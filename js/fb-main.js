@@ -4,7 +4,7 @@
 */
    
    // Modo de depuração do jogo - Lógico (true or false)
-   var debugmode = false;
+   var debugmode = true;
 
    // Objeto para congelar dependendo dos estados
    var states = Object.freeze({
